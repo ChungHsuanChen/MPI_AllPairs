@@ -17,5 +17,5 @@ Your program must be able to
 ## How to run? 
 ```
 make input_generation  //Produce input file:input.txt
-make run //重新編譯與執行
+make run //Recompile and run
 ```
